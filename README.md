@@ -126,5 +126,5 @@ This project is a replica created for educational purposes and is not intended t
 
 🌟 **Enjoy using the VERSE Mac Checker Replica!** 🌟
 
-If you encounter any issues or have questions, feel free to open an issue or contact the repository owner.
+If you encounter any issues or have questions, feel free to open an issue or contact me.
 
